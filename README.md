@@ -20,8 +20,6 @@
 
 - ☺️ For a closer look at the daily routines of my professional and educational journey: [my instagram page](www.instagram.com/ahmadreza_hajtalebi)
 
-- 📫 [Find me here](ahmadrezahajtalebi@gmail.com)
-
 - 🌱 My creations live here: [my github](www.github.com/ahmadrezahajtalebi)
 
 - ☕ Something you might not know: Constantly fueled by coffee and dreams of space!
