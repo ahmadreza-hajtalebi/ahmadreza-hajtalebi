@@ -1,4 +1,4 @@
-![logo](https://github.com/ahmadrezahajtalebi/ahmadrezahajtalebi/blob/main/Fermi_Searches_for_Gravitational_Waves_From_Monster_Black_Holes_(SVS14130_-_BH_banner_GIF_2022-03-28_14_46_14).gif)
+![logo](https://github.com/ahmadreza-hajtalebi/ahmadreza-hajtalebi/blob/main/Fermi_Searches_for_Gravitational_Waves_From_Monster_Black_Holes_(SVS14130_-_BH_banner_GIF_2022-03-28_14_46_14).gif)
 
 <h1 align="center">Hey there!👋 I'm Ahmadreza</h1>
 <h3 align="center">An Aerospace Engineer charting a course for discovery and building the future 🌌</h3>
@@ -6,7 +6,7 @@
  
 <img align="right" alt="ahmadreza" width = "350" src="https://cdn.dribbble.com/userupload/41778689/file/original-3b8f44e467d9348a76687ae6947c685e.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadrezahajtalebi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadrezahajtalebi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadreza-hajtalebi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadrezahajtalebi" /> </p>
 
 - 🚀 Building cool things at [Space Research Lab](www.spacerl.com) Projects
 
@@ -20,7 +20,7 @@
 
 - ☺️ For a closer look at the daily routines of my professional and educational journey: [my instagram page](www.instagram.com/ahmadreza_hajtalebi)
 
-- 🌱 My creations live here: [my github](www.github.com/ahmadrezahajtalebi)
+- 🌱 My creations live here: [my github](www.github.com/ahmadreza-hajtalebi)
 
 - ☕ Something you might not know: Constantly fueled by coffee and dreams of space!
 
