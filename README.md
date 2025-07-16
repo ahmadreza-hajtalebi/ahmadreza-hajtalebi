@@ -6,7 +6,7 @@
  
 <img align="right" alt="ahmadreza" width = "350" src="https://cdn.dribbble.com/userupload/41778689/file/original-3b8f44e467d9348a76687ae6947c685e.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadreza-hajtalebi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadrezahajtalebi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadreza-hajtalebi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadreza-hajtalebi" /> </p>
 
 - 🚀 Building cool things at [Space Research Lab](www.spacerl.com) Projects
 
@@ -33,9 +33,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadrezahajtalebi&show_icons=true&locale=en&layout=compact" alt="ahmadrezahajtalebi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadrezahajtalebi&show_icons=true&locale=en&layout=compact" alt="ahmadreza-hajtalebi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadrezahajtalebi&show_icons=true&locale=en" alt="ahmadrezahajtalebi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadrezahajtalebi&show_icons=true&locale=en" alt="ahmadreza-hajtalebi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadrezahajtalebi&" alt="ahmadrezahajtalebi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadrezahajtalebi&" alt="ahmadreza-hajtalebi" /></p>
 
