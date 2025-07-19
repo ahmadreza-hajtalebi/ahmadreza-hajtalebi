@@ -14,7 +14,7 @@
 
 - ✨ Seeking collaborators for **Open-source Aerospace & STEM Ventures**
 
-- 🛰️ Could use some insights on [Advanced CubeSat Mission Design](comming soon ...)
+- 🛰️ Could use some insights on Advanced **CubeSat Mission Design**
 
 - ▶️ You can catch my insights on science & engineering via: [my youtube channel](www.youtube.com/vortiqon_science)
 
