@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadreza-hajtalebi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadreza-hajtalebi" /> </p>
 
-- 🚀 Building cool things at [Space Research Lab]([www.](https://spacerl.com) Projects
+- 🚀 Building cool things at [Space Research Lab](https://spacerl.com) Projects
 
 - 🎓 Feel free to pick my brain about **Aerospace engineering, CubeSats, practical coding projects & university life!**
 
