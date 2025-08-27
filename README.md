@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadreza-hajtalebi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadreza-hajtalebi" /> </p>
 
-- 🚀 Building cool things at [Space Research Lab](www.spacerl.com) Projects
+- 🚀 Building cool things at [Space Research Lab]([www.](https://spacerl.com) Projects
 
 - 🎓 Feel free to pick my brain about **Aerospace engineering, CubeSats, practical coding projects & university life!**
 
@@ -16,11 +16,11 @@
 
 - 🛰️ Could use some insights on Advanced **CubeSat Mission Design**
 
-- ▶️ You can catch my insights on science & engineering via: [my youtube channel](www.youtube.com/vortiqon_science)
+- ▶️ You can catch my insights on science & engineering via: [my youtube channel](https://youtube.com/vortiqon_science)
 
-- ☺️ For a closer look at the daily routines of my professional and educational journey: [my instagram page](www.instagram.com/ahmadreza_hajtalebi)
+- ☺️ For a closer look at the daily routines of my professional and educational journey: [my instagram page](https://instagram.com/ahmadreza_hajtalebi)
 
-- 🌱 My creations live here: [my github](www.github.com/ahmadreza-hajtalebi)
+- 🌱 My creations live here: [my github](https://github.com/ahmadreza-hajtalebi)
 
 - ☕ Something you might not know: Constantly fueled by coffee and dreams of space!
 
