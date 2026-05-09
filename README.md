@@ -16,7 +16,7 @@
 
 - 🛰️ Could use some insights on Advanced **CubeSat Mission Design**
 
-- ▶️ You can catch my insights on science & engineering via: [my youtube channel](https://youtube.com/vortiqon_science)
+- ▶️ You can catch my insights on science & engineering via: [my youtube channel](https://youtube.com/vortiqon_science) is coming...
 
 - ☺️ For a closer look at the daily routines of my professional and educational journey: [my instagram page](https://instagram.com/ahmadreza_hajtalebi)
 
